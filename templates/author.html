@@ -1,0 +1,45 @@
+{% extends "layout.html" %}
+{% block content %}
+    <div class="content-section">
+      <div class="media">
+        <div class="media-body">
+          <h2 class="account-heading">{{name}}</h2>
+          <p class="text-secondary">{{email }}</p>
+        </div>
+      </div>
+     
+            <fieldset class="form-group">
+                <legend class="border-bottom mb-4">Author Info</legend>
+                <div class="form-group">
+            
+               
+                      <b> NAME</b> :  {{name }}
+                  
+                </div>
+                <div class="form-group">
+                    
+                        <b>EMAIL</b> : {{ email }}
+       
+                </div>
+	<div class="form-group">
+                    
+                       <b> DESIGNATION</b> : {{designation}}
+       
+                </div>
+
+		<div class="form-group">
+                    
+                       <b>PHONE</b> :  {{phone}}
+       
+                </div>
+            </fieldset>
+{%if linkedin %}
+            <div class="form-group">
+                    
+                      LINKEDIN/INSTA : <a class="mr-2" href={{linkedin}} target="_blank">{{linkedin}}</a>
+          
+                </div>
+ {%endif%}
+   
+    </div>
+{% endblock content %}
