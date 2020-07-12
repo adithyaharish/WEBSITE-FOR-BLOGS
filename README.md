@@ -2,6 +2,7 @@
 this project uses flask as framework  and couchdb as database to develop a public website similar to blogs.
 
 NOTE:
+A sample video of the website is attached. Do go through it for better idea
 I have hosted my couchdb in cloud to deploy the website, hence that part of the code is hashed for security reasons. 
 i have also attached the templates and html fils for easy reference.
 
