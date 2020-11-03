@@ -12,6 +12,6 @@ FEATURES:
 4. only the author can edit or delete his/her posts
 5. unregistered useers can view the blog, and only regeistered users can create one.
 
-[![Watch the video](https://github.com/adithyaharish/invoice-generator/blob/master/invoice%20generator.mp4)](https://github.com/adithyaharish/invoice-generator/blob/master/invoice%20generator.mp4)</br>
+[![Watch the video](https://github.com/adithyaharish/WEBSITE-FOR-BLOGS/blob/master/adithya-website_compressed.mp4)](https://github.com/adithyaharish/WEBSITE-FOR-BLOGS/blob/master/adithya-website_compressed.mp4)</br>
 
-![Image of app](https://github.com/adithyaharish/invoice-generator/blob/master/images/Capture.PNG)</br>
+![Image of app](https://github.com/adithyaharish/WEBSITE-FOR-BLOGS/blob/master/blog.png)</br>
